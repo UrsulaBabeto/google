@@ -1,0 +1,18 @@
+button {    
+
+    color: rgb(58, 59, 59);
+    font-family: arial,sans-serif;
+    font-size: 14px !important;
+    margin: 11px 4px;
+    padding: 6px 16px !important;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+.button:hover {
+    box-shadow: 0 0 4px #afb6bb ;
+    border-radius: 4px;
+   
+}

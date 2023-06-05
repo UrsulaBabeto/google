@@ -1,0 +1,16 @@
+.footer{
+    color: #afb6bb;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: baseline;
+   
+}
+.list ul{
+    display: inline-flex;
+    align-items: end;
+    justify-content: space-between;
+    margin-block-start: 0 !important;
+   padding: 0 40px 0 0 ;
+    
+}
